@@ -1,0 +1,17 @@
+{
+    "name": "vendor/test-d-d-d",
+    "description": "Описание проекта testDDD.",
+    "authors": [
+        {
+            "name": "ilya",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "app",
+            "tests\\": "tests"
+        }
+    }
+}

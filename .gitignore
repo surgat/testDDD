@@ -1,0 +1,11 @@
+# IDEs and git
+/.*/
+/nbproject/private/
+
+# Composer
+/bin/
+/vendor/
+
+# Ant and Jenkins
+/build/
+/artifacts/
